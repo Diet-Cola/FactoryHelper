@@ -1,0 +1,14 @@
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\bin\Debug\ConfigCreator.exe.config
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\bin\Debug\ConfigCreator.exe
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\bin\Debug\ConfigCreator.pdb
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\ConfigCreator.csprojResolveAssemblyReference.cache
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\MainWindow.g.cs
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\App.g.cs
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\ConfigCreator_MarkupCompile.cache
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\ConfigCreator_MarkupCompile.lref
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\MainWindow.baml
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\ConfigCreator.g.resources
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\ConfigCreator.Properties.Resources.resources
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\ConfigCreator.csproj.GenerateResource.Cache
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\ConfigCreator.exe
+\\cuc-srv-fs02\studio-stuhome$\mcelnay.j\documents\visual studio 2015\Projects\ConfigCreator\ConfigCreator\obj\Debug\ConfigCreator.pdb
