@@ -28,7 +28,7 @@ namespace ConfigCreator
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            string docPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
             using (StreamWriter outputFile = new StreamWriter(docPath + @"\config.yml", true))
             {
