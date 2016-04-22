@@ -76,7 +76,7 @@ namespace ConfigCreator
                 if (recipe37Name.Text == null) { outputFile.WriteLine("    - {0}", recipe37Name.Text); }
                 if (recipe38Name.Text == null) { outputFile.WriteLine("    - {0}", recipe38Name.Text); }
                 if (recipe39Name.Text == null) { outputFile.WriteLine("    - {0}", recipe39Name.Text); }
-                if (recipe40Name.Text == null) { outputFile.WriteLine("    - {0}", recipe1Name.Text); }
+                if (recipe40Name.Text == null) { outputFile.WriteLine("    - {0}", recipe40Name.Text); }
             }
         }
 
